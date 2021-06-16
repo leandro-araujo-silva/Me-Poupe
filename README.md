@@ -10,9 +10,10 @@
 
 ## Sobre o Projeto
 
-Programa que calcula os gastos mensais para sair de casa. Ele é baseado nesse vídeo do canal Me Poupe:
+Programa que calcula os gastos mensais para sair de casa. 
+Ele é baseado nesse vídeo do canal Me Poupe:
 
-[ME POUPE](https://youtu.be/rN0xTDaWT5Q)
+[Clique aqui para assistir o vídeo](https://youtu.be/rN0xTDaWT5Q)
 
 ### 🛠 Tecnologias
 
