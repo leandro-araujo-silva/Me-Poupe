@@ -11,7 +11,7 @@
 ## Sobre o Projeto
 
 Programa que calcula os gastos mensais para sair de casa.<br/>
-Ele é baseado nesse vídeo do canal Me Poupe:
+Ele é baseado neste vídeo do canal Me Poupe:
 
 [Clique aqui para assistir o vídeo](https://youtu.be/rN0xTDaWT5Q)
 
