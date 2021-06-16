@@ -1,0 +1,40 @@
+body {
+    font: normal 15t Arial;
+    background-image: url('https://i2.wp.com/www.tbsconsultoria.com.br/wp-content/uploads/2019/01/265919-redator-entregar-ate-2812-as-10heconomia-mundial-quais-sao-as-10-tendencias-para-os-proximos-anos.jpg?fit=2309%2C1299&ssl=1');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    color: rgb(255, 203, 59);
+    text-align: center;
+}
+
+section {
+    background-color: rgba(255, 255, 255, 0.849);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349);
+}
+
+section p {
+    font: normal 12pt Arial;
+}
+
+section #click {
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
+
+section #res {
+    font: normal 12pt Arial;
+}
+
+footer {
+    color: rgb(255, 203, 59);
+    text-align: center;
+    font-style: italic; 
+}

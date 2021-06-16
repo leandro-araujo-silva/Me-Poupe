@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="_css/style.css" rel="stylesheet" type="text/css">
+    <title>Me Poupe - Saindo da casa dos pais</title>
+</head>
+<body>
+    <header>
+        <h1>Economia para sair da casa dos pais</h1>
+    </header>
+    <section>
+        <div>
+            <h1>Custos fixos</h1>
+            <p>
+                <label for="aluguel">Aluguel/Financiamentos:</label>
+                <input type="number" name="aluguel" id="aluguel" min="0">
+            </p>
+            <p>
+                <label for="condo">Condomínio:</label>
+                <input type="number" name="condo" id="condo" min="0">
+            </p>
+            <p>
+                <label for="iptu">IPTU:</label>
+                <input type="number" name="iptu" id="iptu" min="0">
+            </p>
+        </div>
+        <div>
+            <h1>Custos variáveis</h1>
+            <p>
+                <label for="alimento">Alimentação em casa:</label>
+                <input type="number" name="alimento" id="alimento" min="0">
+            </p>
+            <p>
+                <label for="manu">Manutenção e Abastecimento:</label>
+                <input type="number" name="manu" id="manu" min="0">
+            </p>
+            <p>
+                <label for="agua">Água:</label>
+                <input type="number" name="agua" id="agua" min="0">
+            </p>
+            <p>
+                <label for="luz">Luz:</label>
+                <input type="number" name="luz" id="luz" min="0">
+            </p>
+            <p>
+                <label for="gas">Gás:</label>
+                <input type="number" name="gas" id="gas" min="0">
+            </p>
+            <p>
+                <label for="internet">Internet:</label>
+                <input type="number" name="internet" id="internet" min="0">
+            </p>
+            <p>
+                <label for="transporte">Gastos com transporte:</label>
+                <input type="number" name="transporte" id="transporte" min="0">
+            </p>
+            <p>
+                <input id="click" type="button" value="Calcular" onclick="verificar()">
+            </p>
+        </div>
+        <div id="res">
+            Preencha os dados acima para ver o resultado!
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Desenvolvido por Leandro Araújo</p>
+    </footer>
+    <script src="_js/script.js"></script>
+</body>
+</html>
